@@ -1,0 +1,13 @@
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\bin\Debug\netcoreapp2.0\StreeExample.deps.json
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\bin\Debug\netcoreapp2.0\StreeExample.runtimeconfig.json
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\bin\Debug\netcoreapp2.0\StreeExample.runtimeconfig.dev.json
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\bin\Debug\netcoreapp2.0\StreeExample.dll
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\bin\Debug\netcoreapp2.0\StreeExample.pdb
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\bin\Debug\netcoreapp2.0\Stree.dll
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\bin\Debug\netcoreapp2.0\Stree.pdb
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\obj\Debug\netcoreapp2.0\StreeExample.csprojResolveAssemblyReference.cache
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\obj\Debug\netcoreapp2.0\StreeExample.csproj.CoreCompileInputs.cache
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\obj\Debug\netcoreapp2.0\StreeExample.AssemblyInfoInputs.cache
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\obj\Debug\netcoreapp2.0\StreeExample.AssemblyInfo.cs
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\obj\Debug\netcoreapp2.0\StreeExample.dll
+C:\Users\math058\Documents\GitHub\stree\Stree\StreeExample\obj\Debug\netcoreapp2.0\StreeExample.pdb

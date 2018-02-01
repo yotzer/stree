@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\math058\\Documents\\Visual Studio 2017\\Projects\\Stree\\Stree\\Stree.csproj",
+      "projectUniqueName": "C:\\Users\\math058\\Documents\\GitHub\\stree\\Stree\\Stree\\Stree.csproj",
       "projectName": "Stree",
-      "projectPath": "C:\\Users\\math058\\Documents\\Visual Studio 2017\\Projects\\Stree\\Stree\\Stree.csproj",
+      "projectPath": "C:\\Users\\math058\\Documents\\GitHub\\stree\\Stree\\Stree\\Stree.csproj",
       "packagesPath": "C:\\Users\\math058\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\math058\\Documents\\Visual Studio 2017\\Projects\\Stree\\Stree\\obj\\",
+      "outputPath": "C:\\Users\\math058\\Documents\\GitHub\\stree\\Stree\\Stree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

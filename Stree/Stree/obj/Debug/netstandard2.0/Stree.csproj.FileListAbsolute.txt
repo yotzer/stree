@@ -1,0 +1,9 @@
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\bin\Debug\netstandard2.0\Stree.deps.json
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\bin\Debug\netstandard2.0\Stree.dll
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\bin\Debug\netstandard2.0\Stree.pdb
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\obj\Debug\netstandard2.0\Stree.csprojResolveAssemblyReference.cache
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\obj\Debug\netstandard2.0\Stree.csproj.CoreCompileInputs.cache
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\obj\Debug\netstandard2.0\Stree.AssemblyInfoInputs.cache
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\obj\Debug\netstandard2.0\Stree.AssemblyInfo.cs
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\obj\Debug\netstandard2.0\Stree.dll
+C:\Users\math058\Documents\GitHub\stree\Stree\Stree\obj\Debug\netstandard2.0\Stree.pdb
